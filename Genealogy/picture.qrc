@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/tuteng.jpg</file>
+        <file>picture/longtuteng.jpg</file>
+    </qresource>
+</RCC>
